@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @takagii-cloud
+- 🧑‍🎓I'm a university student
 - 👀 I’m interested in network and operating systems
 - 🌱 I’m currently learning network and telecommunications
 - 📫 How to reach me: by my discord: takagii
