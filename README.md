@@ -7,9 +7,9 @@
 
 - 👯 I’m currently searching for an apprentice in **Systems and Networks Engineering**
 
-- 👨‍💻 Mon portfolio [https://takagii-cloud.github.io/takagii.jp/](https://takagii-cloud.github.io/takagii.jp/)
+- 👨‍💻 My portfolio [https://takagii-cloud.github.io/takagii.jp/](https://takagii-cloud.github.io/takagii.jp/)
 
-- 📫 Comment me contacter **tahaadam.pro@gmail.com or takagiizushii@takagii.fr**
+- 📫 How to reach me **tahaadam.pro@gmail.com or takagiizushii@takagii.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
