@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Networks and Télécommunications**
 
-- 👯 I’m currently searching for an apprentice in **Systems and Networks Engineering**
-
 - 👨‍💻 My portfolio [https://takagii-cloud.github.io/adam.taha.io/](https://takagii-cloud.github.io/adam.taha.io/)
 
 - 📫 How to reach me **tahaadam.pro@gmail.com or takagiizushii@takagii.fr**
