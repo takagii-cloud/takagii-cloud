@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Networks and Télécommunications**
 
-- 👨‍💻 My portfolio [https://takagii-cloud.github.io/adam.taha.io/](https://takagii-cloud.github.io/adam.taha.io/)
+- 👨‍💻 My portfolio [https://portfolio.takagii.fr](https://portfolio.takagii.fr)
 
 - 📫 How to reach me **tahaadam.pro@gmail.com or takagiizushii@takagii.fr**
 
