@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **Infrastructure Technician**
 
-- 🌱 I’m currently learning **Networks and Télécommunications**
+- 🌱 I’m currently learning **Systems and Networks**
 
 - 👨‍💻 My portfolio [https://portfolio.takagii.fr](https://portfolio.takagii.fr)
 
