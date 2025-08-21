@@ -8,15 +8,15 @@
   </a>
 </p>
 
-- 🔭 I’m currently working as **Systems and Security Engineer**
+- 🔭 I’m currently working as : **Systems and Security Engineer**
 
-- 🌱 I’m currently learning **Systems and Networks**
+- 🌱 I’m currently learning : **Systems and Networks**
 
-- 👨‍💻 My portfolio [https://portfolio.takagii.fr/](https://portfolio.takagii.fr/)
+- 👨‍💻 My portfolio : [https://portfolio.takagii.fr/](https://portfolio.takagii.fr/)
 
-- 📫 How to reach me **takagiizushii@takagii.fr**
+- 📫 How to reach me : **takagiizushii@takagii.fr**
 
-- 📄 Know about my experiences [https://portfolio.takagii.fr/assets/cv/TahaAdamResume.pdf](https://portfolio.takagii.fr/assets/cv/TahaAdamResume.pdf)
+- 📄 Know about my experiences : [https://portfolio.takagii.fr/assets/cv/TahaAdamResume.pdf](https://portfolio.takagii.fr/assets/cv/TahaAdamResume.pdf)
 
 ---
 
