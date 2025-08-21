@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">A Systems and Networks Engineering Student at IMT Mines Alès.</h3>
 
-- 🔭 I’m currently working as **Infrastructure Technician**  
+- 🔭 I’m currently working as **Systems and Security Engineer**  
 - 🌱 I’m currently learning **Systems and Networks**  
 - 👨‍💻 My portfolio [https://portfolio.takagii.fr](https://portfolio.takagii.fr)  
 - 📫 How to reach me **tahaadam.pro@gmail.com or takagiizushii@takagii.fr**  
