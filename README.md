@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">Systems and Networks Engineering Student at @IMT Mines Alès & Systems and Security Engineer</h3>
 
-- 🔭 I’m currently working as : **Systems and Security Engineer**
+- 🔭 I’m currently working on : **Self Hosting**
 
 - 🌱 I’m currently learning : **Systems and Networks**
 
