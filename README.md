@@ -4,7 +4,7 @@
 <!-- Logo de l'école -->
 <p align="center">
   <a href="https://www.mines-ales.fr/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1b/IMT_Mines_Al%C3%A8s.png/320px-IMT_Mines_Al%C3%A8s.png" alt="IMT Mines Alès" width="120"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/IMT_Mines_Al%C3%A8s.svg" alt="IMT Mines Alès" width="120"/>
   </a>
 </p>
 
