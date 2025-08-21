@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">Systems and Networks Engineering Student at @IMT Mines Alès & Systems and Security Engineer</h3>
 
-<p align="center">
-  <a href="https://www.mines-ales.fr/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/IMT_Mines_Al%C3%A8s.svg" alt="IMT Mines Alès" width="120"/>
-  </a>
-</p>
-
 - 🔭 I’m currently working as : **Systems and Security Engineer**
 
 - 🌱 I’m currently learning : **Systems and Networks**
