@@ -15,7 +15,8 @@
 
 <h3 align="left">🎓 Education</h3>
 <p align="left"> 
-  Student in Systems and Networks Engineering at <b>IMT Mines Alès</b>
+  Student in Systems and Networks Engineering at <b>IMT Mines Alès.</b>
+  <br>
   Bachelor's Degree in Network and Telecommunications Technology at <b>IUT de Villetaneuse</b>
 </p>
 
