@@ -7,6 +7,8 @@
 
 - 👨‍💻 My portfolio : [https://portfolio.takagii.fr/](https://portfolio.takagii.fr/)
 
+- 🗂️ My blog : [https//blog.takagii.fr/](https://blog.takagii.fr/)
+
 - 📫 How to reach me : **takagiizushii@takagii.fr**
 
 ---
