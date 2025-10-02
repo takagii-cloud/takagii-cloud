@@ -9,8 +9,6 @@
 
 - 📫 How to reach me : **takagiizushii@takagii.fr**
 
-- 📄 Know about my experiences : [https://portfolio.takagii.fr/assets/cv/TahaAdamResume.pdf](https://portfolio.takagii.fr/assets/cv/TahaAdamResume.pdf)
-
 ---
 
 <h3 align="left">🎓 Education</h3>
