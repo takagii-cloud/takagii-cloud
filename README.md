@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **takagiizushii@takagii.fr**
 
-- 👨‍💻 All of my projects are available at **[https://portfolio.takagii.fr/](https://portfolio.takagii.fr/)**
+- 👨‍💻 Check out my portfolio at **[https://portfolio.takagii.fr/](https://portfolio.takagii.fr/)**
 
 - 📝 I do not regularly write articles on **[https://blog.takagii.fr/](https://blog.takagii.fr/)**
 
