@@ -1,49 +1,62 @@
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="center">Hi 👋, I'm takagii</h1>
+
+<h3 align="center">Systems and Network Engineering Student</h3>
+
+<p align="center">
+  <a href="https://takagii.fr">
+    <img src="https://img.shields.io/badge/Website-takagii.fr-blue?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="website"/>
+  </a>
+  <a href="https://blog.takagii.fr">
+    <img src="https://img.shields.io/badge/Blog-blog.takagii.fr-orange?style=for-the-badge&logo=rss&logoColor=white" alt="blog"/>
+  </a>
+  <a href="https://www.linkedin.com/in/adam-taha-admin">
+    <img src="https://img.shields.io/badge/LinkedIn-Adam%20Taha-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About me
+
+- 🎓 I’m studying **Systems and Network Engineering** at **IMT Mines Alès**
+- 🔭 I’m currently working on a **self-hosted blog with Jekyll**
+- 🌱 I’m currently learning **Kubernetes, Git, Linux, and infrastructure tools**
+- 💬 Ask me about **networking, systems, Linux, self-hosting, and web infrastructure**
+- 📝 I sometimes write articles on [blog.takagii.fr](https://blog.takagii.fr)
+- 👨‍💻 Check out my portfolio: [portfolio.takagii.fr](https://portfolio.takagii.fr)
+- 📄 My resume is available here: [TahaAdamResume.pdf](https://portfolio.takagii.fr/assets/cv/TahaAdamResume.pdf)
+- 📫 Reach me at **takagiizushii@takagii.fr**
+
+---
+
+### 🛠️ Languages and Tools
 
 <p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=bash,cpp,css,docker,git,html,js,linux,mysql,php,postgres,py,react,ts,kubernetes&perline=15" alt="Languages and tools" />
+</p>
+
+---
+
+### 🧰 Other tools and technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" alt="jekyll"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="mariadb"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle"/>
+</p>
+
+---
+
+### 🔗 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/adam-taha-admin">
+    <img src="https://img.shields.io/badge/LinkedIn-Adam%20Taha-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="https://takagii.fr">
+    <img src="https://img.shields.io/badge/Website-takagii.fr-blueviolet?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="website"/>
+  </a>
+  <a href="https://blog.takagii.fr">
+    <img src="https://img.shields.io/badge/Blog-blog.takagii.fr-orange?style=for-the-badge&logo=rss&logoColor=white" alt="blog"/>
   </a>
 </p>
