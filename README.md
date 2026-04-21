@@ -36,10 +36,10 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Languages and Tools (used at least once)
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bash,cpp,css,docker,git,html,js,linux,mysql,php,postgres,py,react,ts,kubernetes&perline=15" alt="Languages and tools" />
+  <img src="https://skillicons.dev/icons?i=bash,cpp,css,docker,git,html,js,linux,mysql,php,postgres,py,react,ts,&perline=15" alt="Languages and tools" />
 </p>
 
 ---
