@@ -22,9 +22,9 @@
 - 🔭 I’m currently working on a **self-hosted blog with Jekyll**
 - 🌱 I’m currently learning **Kubernetes, Git, Linux, and infrastructure tools**
 - 💬 Ask me about **networking, systems, Linux, self-hosting, and web infrastructure**
-- 📝 I sometimes write articles on [blog.takagii.fr](https://blog.takagii.fr)
+- 📝 I do (not) write articles on [blog.takagii.fr](https://blog.takagii.fr)
 - 👨‍💻 Check out my portfolio: [portfolio.takagii.fr](https://portfolio.takagii.fr)
-- 📄 My resume is available here: [TahaAdamResume.pdf](https://portfolio.takagii.fr/assets/cv/TahaAdamResume.pdf)
+- 📄 My resume is available here: [tada](https://portfolio.takagii.fr/assets/cv/TahaAdamResume.pdf)
 - 📫 Reach me at **takagiizushii@takagii.fr**
 
 ---
