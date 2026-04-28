@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm takagii</h1>
 
-<h3 align="center">Systems and Network Engineering Intern</h3>
+<h3 align="center">Systems and Network Engineering Apprentice</h3>
 
 <p align="center">
   <a href="https://takagii.fr">
