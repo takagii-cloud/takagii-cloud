@@ -9,9 +9,6 @@
   <a href="https://blog.takagii.fr">
     <img src="https://img.shields.io/badge/Blog-blog.takagii.fr-orange?style=for-the-badge&logo=rss&logoColor=white" alt="blog"/>
   </a>
-  <a href="https://www.linkedin.com/in/adam-taha-admin">
-    <img src="https://img.shields.io/badge/LinkedIn-Adam%20Taha-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
 </p>
 
 ---
@@ -57,9 +54,6 @@
 ### 🔗 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/adam-taha-admin">
-    <img src="https://img.shields.io/badge/LinkedIn-Adam%20Taha-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
   <a href="https://takagii.fr">
     <img src="https://img.shields.io/badge/Website-takagii.fr-blueviolet?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="website"/>
   </a>
